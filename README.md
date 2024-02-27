@@ -10,7 +10,7 @@ Olá! tenho 19 anos trabalho como embalador no "Novo Atacarejo" e sou estudante 
 🌐 Redes de Computadores
 
 💻 Amante da área de dados
-
+##
   **Atualmente focando em:**
 
  <div display = 'inline'>
@@ -18,14 +18,17 @@ Olá! tenho 19 anos trabalho como embalador no "Novo Atacarejo" e sou estudante 
    <img width ='55' height='55' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> 
    <img width ='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
    <img width ='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
- </div>
+</div>
 
-  ### Você me encontrar em:
- <div >
+
+
+##
+<div>
+  <h4> Você me encontrar em: </h4>
   <a href = 'https://www.linkedin.com/in/allan-junior-batista-da-silva-1867a8257/'>
   <img width ='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-  </div>
+ </div>
 
   
   
