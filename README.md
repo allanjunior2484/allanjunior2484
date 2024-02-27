@@ -24,7 +24,7 @@ Olá! tenho 19 anos trabalho como embalador no "Novo Atacarejo" e sou estudante 
 
 ##
 <div>
-  <h4> Você me encontrar em: </h4>
+  <h4> Você me encontra em: </h4>
   <a href = 'https://www.linkedin.com/in/allan-junior-batista-da-silva-1867a8257/'>
   <img width ='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
