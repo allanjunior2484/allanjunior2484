@@ -1,4 +1,6 @@
 ### Olá, meu nome é Allan 
+
+
 Olá! tenho 19 anos trabalho como embalador no "Novo Atacarejo" e sou estudante de Sistema de Informação na Unifacol em Vitória de Santo Antão. Além disso, possuo formação técnica em Redes de Computadores pela ETE em Gravatá-PE e em desenvolvimento back-end pela Softex. Recentemente, tive a oportunidade de participar de uma residência de três meses (de fevereiro a abril de 2022), onde contribuí para um projeto em grupo voltado à criação de uma plataforma de consultoria. Atualmente, estou focado meus estudos na área de análise de dados, machine learning e modelagem de dados.
 
 🧑🏽 **Estudante** de Sistema de Informação 1/8
