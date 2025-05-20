@@ -1,7 +1,7 @@
 ## Olá, meu nome é Allan 
 
 
-Olá! Sou um entusiasta de tecnologia com 20 anos, atualmente trabalhando como Assistente T.I no Novo Atacarejo e estudante de Sistema de Informação na Unifacol, em Vitória de Santo Antão. Possuo formação técnica em Redes de Computadores pela ETE em Gravatá-PE e em desenvolvimento back-end pela Softex.
+Olá! Sou um entusiasta de tecnologia com 21 anos, atualmente trabalhando como Assistente T.I no Novo Atacarejo e estudante de Sistema de Informação na Unifacol, em Vitória de Santo Antão. Possuo formação técnica em Redes de Computadores pela ETE em Gravatá-PE e em desenvolvimento back-end pela Softex.
 
 
 
