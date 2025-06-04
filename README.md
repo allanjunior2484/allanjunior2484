@@ -1,21 +1,25 @@
+
 ## Olá, meu nome é Allan 
 
 
-Olá! Sou um entusiasta de tecnologia com 21 anos, atualmente trabalhando como Assistente T.I no Novo Atacarejo e estudante de Sistema de Informação na Unifacol, em Vitória de Santo Antão. Possuo formação técnica em Redes de Computadores pela ETE em Gravatá-PE e em desenvolvimento back-end pela Softex.
+Sou Allan Junior, profissional em formação na área de Tecnologia da Informação, com experiência prática em suporte e foco no desenvolvimento de software. Atualmente, curso Sistemas de Informação (1º período) na Unifacol e atuo como Assistente de T.I no Novo Atacarejo.
 
+Tenho formação técnica em Redes de Computadores pela ETE Gravatá-PE e especialização em Desenvolvimento Back-End pela Softex. Estou direcionando minha carreira para a área de desenvolvimento, com ênfase em Java e grande interesse pela área de dados.
 
 
 Confira meus projetos e contribuições.
 
-🧑🏽 **Estudante** de Sistema de Informação 1/8
+🧑🏽 **Estudante** de Sistema de Informação 4/8
 
-👨‍💻 Área de Tecnologia
+💻 Desenvolvimento de Software (Back-End)
 
 🌐 Redes de Computadores
 
-💻 Amante da área de dados
-##
-  **Atualmente focando em:**
+📊 Interesse contínuo em dados e automações
+
+
+
+🧠 Atualmente focando em:
 
  <div display = 'inline'>
    <img width ='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -32,6 +36,11 @@ Confira meus projetos e contribuições.
   <img width ='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
  </div>
+
+
+
+
+
 
   
   
