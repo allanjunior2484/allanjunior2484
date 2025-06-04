@@ -21,7 +21,7 @@ Confira meus projetos e contribuições.
 
 🧠 Atualmente focando em:
 
-<div style="display: flex; gap: 30px; align-items: center;">
+<div style="display: flex; gap: 300px; align-items: center;">
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
     <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
